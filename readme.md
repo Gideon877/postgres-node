@@ -1,0 +1,8 @@
+
+
+
+
+
+#### create database
+
+> createdb moviedb
